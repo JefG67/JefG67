@@ -17,4 +17,4 @@ You can click the Preview link to take a look at your changes.
 ![HTML](https://img.shields.io/badge/HTML-5-orange?style=for-the-badge&logo=html5)
 
 ### CSS
-![CSS](https://img.shields.io/badge/CSS-3-blueviolet?style=for-the-badge&logo=css3)
+![CSS](https://img.shields.io/badge/CSS-5-blueviolet?style=for-the-badge&logo=css3)
