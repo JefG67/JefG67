@@ -19,9 +19,3 @@ You can click the Preview link to take a look at your changes.
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=JefG67&count_private=true&theme=tokyonight&showicons=true)]()
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=JefG67&langs_count=5&theme=tokyonight)]()
 
-<a href="https://github.com/JefG67/github-stats">
-<img src="https://github.com/JefG67/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
-<img src="https://github.com/JefG67/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
-<img src="https://github.com/JefG67/github-stats/blob/master/generated/overview.svg#gh-light-mode-only" />
-<img src="https://github.com/JefG67/github-stats/blob/master/generated/languages.svg#gh-light-mode-only" />
-</a>
