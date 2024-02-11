@@ -17,4 +17,4 @@ You can click the Preview link to take a look at your changes.
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=JefG67&count_private=true&theme=calm_pink&showicons=true&hide=prs,contribs&show_icons=true )]()<br>
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=JefG67&langs_count=5&theme=calm_pink)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=JefG67&langs_count=5&theme=calm_pink&show_icons=true)]()
