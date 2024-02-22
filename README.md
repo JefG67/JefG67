@@ -19,4 +19,4 @@ You can click the Preview link to take a look at your changes.
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=JefG67&count_private=true&theme=calm_pink&showicons=true&hide=prs,contribs&show_icons=true )]()<br>
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=JefG67&langs_count=5&theme=calm_pink&show_icons=true)]()
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vn7n24fzkq&theme=nord_bright)
+![[My GitHub](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JefG67&count&theme=nord_bright)
